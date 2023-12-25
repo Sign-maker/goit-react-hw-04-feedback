@@ -1,0 +1,10 @@
+.notification {
+  width: 90%;
+  background-color: rgb(208, 243, 244);
+  text-align: center;
+  margin: 0 auto;
+  padding: 16px 16px;
+  font-size: 24px;
+  font-weight: 700;
+  border-radius: 10px;
+}
