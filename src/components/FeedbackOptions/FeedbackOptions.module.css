@@ -10,6 +10,7 @@
   background-color: rgb(208, 243, 244);
   transition: background-color 250ms ease-in-out;
   box-shadow: 2px 2px 2px rgba(150, 150, 150, 0.5);
+  text-transform: capitalize;
 }
 .button span {
   padding: 5px;
